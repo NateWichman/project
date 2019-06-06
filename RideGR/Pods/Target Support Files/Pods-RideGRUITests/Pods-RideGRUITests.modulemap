@@ -1,0 +1,6 @@
+framework module Pods_RideGRUITests {
+  umbrella header "Pods-RideGRUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

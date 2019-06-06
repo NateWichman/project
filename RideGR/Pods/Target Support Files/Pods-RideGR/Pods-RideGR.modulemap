@@ -1,0 +1,6 @@
+framework module Pods_RideGR {
+  umbrella header "Pods-RideGR-umbrella.h"
+
+  export *
+  module * { export * }
+}
